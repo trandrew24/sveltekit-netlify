@@ -11,5 +11,3 @@ node_modules
 .output
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-sshkey_delete
-sshkey_delete.pub
